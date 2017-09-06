@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.angite.wxg.angitelocationtest.MainActivity" >
+
+    <item
+        android:id="@+id/one"
+        android:orderInCategory="100"
+
+        android:title="请求图片"/>
+
+    <item
+        android:id="@+id/two"
+        android:orderInCategory="200"
+
+        android:title="请求HTML代码"/>
+
+    <item
+        android:id="@+id/three"
+        android:orderInCategory="200"
+
+        android:title="加载webView"/>
+
+</menu>
